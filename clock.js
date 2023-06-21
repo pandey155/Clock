@@ -11,3 +11,4 @@ setInterval(() => {
     minute.style.transform=`rotate(${mrotation}deg)`;
     second.style.transform=`rotate(${srotation}deg)`;
 }, 1000);
+https://learn.microsoft.com/en-us/visualstudio/version-control/git-clone-repository?view=vs-2022
